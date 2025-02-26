@@ -5,9 +5,18 @@ Use arrows to change track, space to pause.
 
 ![screen](screen.png)
 
+# needs a http server
+
+for example:
+
+```
+python -m http.server 1025
+```
+
 # sources
 
 Original Music: Patrick Phelan
+
 Original Graphics: Andrew Morris
 
 Magnetic Fields (c) 1992
