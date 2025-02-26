@@ -1,17 +1,7 @@
 * { box-sizing: border-box; }
 
-@font-face {
-                font-family: 'Press Start 2P';
-                src: url('/fonts/pressstart2p-webfont.eot');
-                src: url('/fonts/pressstart2p-webfont.eot?#iefix') format('embedded-opentype'),
-                     url('/fonts/pressstart2p-webfont.woff') format('woff'),
-                     url('/fonts/pressstart2p-webfont.ttf') format('truetype');
-                font-weight: normal;
-                font-style: normal;
-            }
 body {
     background: #000;
-    font-family: 'Press Start 2P', Arial;
     padding: 5px 15px;
     overflow: auto;
 }
