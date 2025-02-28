@@ -1,4 +1,6 @@
-# lotus3-cdplayer
+[online version](https://patrykfalba.pl/entries/lotus3/)
+
+# :cd: lotus3-cdplayer
 
 This is the CDPlayer from Lotus III. It play mod files from the game.
 Use arrows to change track, space to pause.
